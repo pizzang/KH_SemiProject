@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\±Ë¿ØπÃ\Desktop\SemiProject_PETMILY2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3829611362.index
+2581422872.index
+2350257807.index
+134793691.index
+64044259.index
+838226951.index
+2346471068.index
